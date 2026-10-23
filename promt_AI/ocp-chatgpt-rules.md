@@ -24,7 +24,6 @@ Với mỗi chương / mỗi exam objective tôi báo đang học:
 4. **Cuối mỗi chủ đề nhỏ**, tự xuất cho tôi:
    - 1 bảng tóm tắt pitfall (để tôi convert thành Anki card)
    - 1 note atomic theo template cố định (xem bên dưới)
-5. **Sau khi xong 1 chapter**, tạo cho tôi các câu trắc nghiệm được lấy từ phần Review Question trong sách OCP-Oracle-Certified-Professional-Java-SE-17-Developer-Study-Guide-Exam-1Z0-829-by-Scott-Selikoff_bibis.ir
 
 ## TEMPLATE NOTE (xuất đúng format này, không đổi)
 
